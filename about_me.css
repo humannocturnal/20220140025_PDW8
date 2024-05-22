@@ -1,0 +1,13 @@
+/* styles.css */
+/* Gaya untuk judul h1 */
+h1 {
+    color: #333; /* Warna teks */
+    font-size: 2.5rem; /* Ukuran font */
+    text-align: center; /* Pusatkan teks */
+}
+
+/* Gaya untuk deskripsi */
+.card-body {
+    background-color: #f8f9fa; /* Warna latar belakang */
+    padding: 20px; /* Ruang padding */
+}
